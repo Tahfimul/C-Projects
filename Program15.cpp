@@ -11,14 +11,14 @@ int main()
 	cin>>a>>b;
 	if(a==0)
 		if(b==0)
-			cout<<"All Solution";
+			cout<<"All Solution\n";
 		else
-			cout<<"No Solution";
+			cout<<"No Solution\n";
 	else
 	{
-		cout<<"One Solution";
+		cout<<"One Solution\n";
 		x=(-1*b)/a;
-		cout<<x;
+		cout<<x<<endl;
 	}
 	return 0;
 }

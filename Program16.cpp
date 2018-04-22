@@ -30,14 +30,14 @@ int main()
 			cout<<"No Solution"<<endl;
 			x1=(((-1)*b)+sqrt(d))/(2*a*c);
 			x2=(((-1)*b)-sqrt(d))/(2*a*c);
-			cout<<x1<<x2;
+			cout<<x1<<x2<<endl;
 		}
 		else
 			if(d==0)
 			{
 				cout<<"Duplicate"<<endl;
 				x = b/(2*a);
-				cout<<x;
+				cout<<x<<endl;
 			}
 			else
 				cout<<"No Solution"<<endl;
