@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 		int G;
-		cout<<"Input your score in numerical form";
+		cout<<"Input your score in numerical form\n";
 		cin>>G;
 		switch (G/10) {
 			case 10:
