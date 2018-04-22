@@ -7,9 +7,9 @@ using namespace std;
 int main()
 {
 	int a, b, sum, product, difference;
-	cout<<"Please input a number: ";
+	cout<<"Please input a number:\n";
 	cin>>a;
-	cout<<"Please input another number: ";
+	cout<<"Please input another number:\n";
 	cin>>b;
 	sum = a + b;
 	cout<<"The sum of "<<a<<" + "<<b<<" is "<<sum<<endl;
