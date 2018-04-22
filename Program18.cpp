@@ -13,13 +13,13 @@ int main()
 	switch(a)
 	{
 		case 3:
-			cout<<"You input the number:"<<a;
+			cout<<"You input the number:"<<a<<endl;
 			break;
 		case 5:
-			cout<<"You input the number:"<<a;
+			cout<<"You input the number:"<<a<<endl;
 			break;
 		case 7:
-			cout<<"You input the number:"<<a;
+			cout<<"You input the number:"<<a<<endl;
 			break;
 		default:
 			cout<<"Others\n";

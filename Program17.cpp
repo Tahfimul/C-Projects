@@ -11,13 +11,13 @@ int main()
 	cin>>a;
 
 	if(a==3)
-		cout<<"Three/n";
+		cout<<"Three\n";
 	else if(a==5)
-		cout<<"Five/n";
+		cout<<"Five\n";
 	else if(a==7)
-		cout<<"Seven/n";
+		cout<<"Seven\n";
 	else
-		cout<<"Others /n";
+		cout<<"Others\n";
 
 	return 0;
 }
