@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program83 to print the first and last numbers from the list using Do While LOOP
+//Tahfimul Latif
+//Program83
+//to print the first and last numbers from the list using Do While LOOP
+//March 24, 2018
 int main()
 {
   int w=5, i[5], e=0;

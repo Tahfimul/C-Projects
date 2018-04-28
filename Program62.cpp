@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program62 to count how many -7 exists in the list using FOR LOOP
+//Tahfimul Latif
+//Program62
+//to count how many -7 exists in the list using FOR LOOP
+//March 24, 2018
 int main()
 {
   int w=5, i[5], e=0, count = 0;

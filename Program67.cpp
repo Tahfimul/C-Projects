@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program 63 To print the sum of multiples of 5 between 1 and 21 using Do While LOOP
-
+//Tahfimul Latif
+//Program 63
+//To print the sum of multiples of 5 between 1 and 21 using Do While LOOP
+//March 24, 2018
 int main() {
   int w=1, sum=0;
   do {

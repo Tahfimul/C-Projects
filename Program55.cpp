@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program55 to print the sum of a list of 5 numbers: 3, 2, -7, 19, -18 using FOR LOOP
+//Tahfimul Latif
+//Program55
+//to print the sum of a list of 5 numbers: 3, 2, -7, 19, -18 using FOR LOOP
+//March 24, 2018
 int main()
 {
   int w=0;

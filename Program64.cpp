@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program64 to print the sum of numbers between 19 and 31 using Do While LOOP
-
+//Tahfimul Latif
+//Program64
+//to print the sum of numbers between 19 and 31 using Do While LOOP
+//March 24, 2018
 int main()
 {
 	int w=19, sum=0;

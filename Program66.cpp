@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program31 to print the sum of even numbers between 19 and 21 using Do While LOOP
-
+//Tahfimul Latif
+//Program31
+//to print the sum of even numbers between 19 and 21 using Do While LOOP
+//March 24, 2018
 int main()
 {
 	int sum=0, w=19;

@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program80 to print the positive numbers of a list of 5 numbers: 3, 2, -7, 19, -18 using Do While LOOP
-
+//Tahfimul Latif
+//Program80
+//to print the positive numbers of a list of 5 numbers: 3, 2, -7, 19, -18 using Do While LOOP
+//March 24, 2018
 int main()
 {
   int w=0,i[5] = {0 , -1, 2, -4, 5};

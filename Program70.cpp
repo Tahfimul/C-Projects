@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program70 to print first and last numbers from 13 and 17 using Do While LOOP
-
+//Tahfimul Latif
+//Program70
+//to print first and last numbers from 13 and 17 using Do While LOOP
+//March 24, 2018
 int main() {
   int w = 13;
   do {

@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program54 To print a list of 5 numbers: 3, 2, -7, 19, -18
+//Tahfimul Latif
+//Program54
+//To print a list of 5 numbers: 3, 2, -7, 19, -18
+//March 24, 2018
 int main()
 {
   int w = 0;

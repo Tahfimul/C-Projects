@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program59 to print the first and last numbers from the list using FOR LOOP
+//Tahfimul Latif
+//Program59
+//to print the first and last numbers from the list using FOR LOOP
+//March 24, 2018
 int main()
 {
   int w=5, i[5], e=0;

@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program60 to print every other number on the list using FOR LOOP
+//Tahfimul Latif
+//Program60
+//to print every other number on the list using FOR LOOP
+//March 24, 2018
 int main()
 {
   int w=5, i[5], e=0;

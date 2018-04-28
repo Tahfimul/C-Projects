@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program79 to count how many -7 exists in the list using Do While LOOP
+//Tahfimul Latif
+//Program79
+//to count how many -7 exists in the list using Do While LOOP
+//March 24, 2018
 int main()
 {
   int w=5, i[5], e=0, count = 0;

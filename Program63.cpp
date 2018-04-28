@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program63 to print odd number from 19 to -5 using Do While LOOP
-
+//Tahfimul Latif
+//Program63
+//to print odd number from 19 to -5 using Do While LOOP
+//March 24, 2018
 int main()
 {
 	int w = 19;

@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program77 to print every other number on the list using Do While LOOP
+//Tahfimul Latif
+//Program77
+//to print every other number on the list using Do While LOOP
+//March 24, 2018
 int main()
 {
   int w=5, i[20], e=0;

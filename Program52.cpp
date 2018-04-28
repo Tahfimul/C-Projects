@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program52 to print first and last numbers from 13 and 17 using FOR LOOP
+//Tahfimul Latif
+//Program52
+//to print first and last numbers from 13 and 17 using FOR LOOP
+//March 24, 2018
 int main() {
   int w = 13, i[5];
   for(int b =13;b<=17;b++)

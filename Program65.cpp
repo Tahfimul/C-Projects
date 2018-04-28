@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
-//Program65 to print the sum of odd numbers between 20 and 40 using Do While LOOP
-
+//Tahfimul Latif
+//Program65
+//to print the sum of odd numbers between 20 and 40 using Do While LOOP
+//March 24, 2018
 int main()
 {
 	int sum = 0, w = 20;
