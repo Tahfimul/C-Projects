@@ -7,21 +7,20 @@ using namespace std;
 //April 28, 2018
 
 void square(int & num)
-{
-	num = sqrt(num);
+{	
+	cout<<"the square of = "<<num<<" is "<<pow(num,2)<<endl;
 }
 
 void cube(int & num)
-{
-	num = cbrt(num);
+{	
+	cout<<"the cube of = "<<num<<" is "<<pow(num, 3)<<endl;
 }
 int main()
 {
-	int num = 81;
-	cout<<"num = "<<num<<endl;
+	int num = 0;
+	cout<<"Please enter a number: "<<endl;
+	cin>>num;
 	square(num);
-	cout<<"num square root = "<<num<<endl;
 	cube(num);
-	cout<<"num cube root = "<<num<<endl;
 }
 
