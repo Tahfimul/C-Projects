@@ -8,13 +8,16 @@ using namespace std;
 
 int main()
 {
-	int multiDimensionalArray[5][3] = {{5,6,7},{3,9,0},{5,0,1},{7,9,3},{6,2,6}};
+	int multiDimensionalArray[5][3] = {{5,6,7},{3,9,0},{5,0,1},{7,9,3},{6,2,6}}, sum;
 	for(int i=0; i<sizeof(multiDimensionalArray)/sizeof(*multiDimensionalArray); i++)
 	{
-		for(int j=0; j<3; j++)
-			if(j==1)			
-				cout<<setw(5)<<"|"<<multiDimensionalArray[i][j]<<"|"<<setw(5);
-			
-		cout<<endl;
+		if(i==3)
+		{
+		    for(int j=0; j<3; j++)	
+			{
+				sum+=multiDimensionalArray[i][j];
+			}		
+			cout<<setw(5)<<"The sum of row 4 is: "<<sum<<endl;
+		}
 	}
 }
