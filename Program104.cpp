@@ -7,20 +7,16 @@ using namespace std;
 int main()
 {
 	int A[5] = {5,2,10,-9,6}, temp=0;
+	cout<<"The current array is: "<<endl;
 	for(int i = 0; i<(sizeof(A)/sizeof(*A)); i++)
-	{
+		cout<<setw(2)<<"|"<<A[i]<<"|";
 	
-		if(i == 1)
-		{
-			temp = A[i];
-			A[i] = A[2];
-		}
-		if(i == 2)
-			A[i] = temp;
-	}	
+	temp = A[1];
+	A[1] = A[2];
+	A[2] = temp;
     cout<<"The newly swapped array is: "<<endl;
 	for(int i = 0; i<(sizeof(A)/sizeof(*A)); i++)
-		cout<<setw(5)<<A[i];
+		cout<<setw(2)<<"|"<<A[i]<<"|";
 		
 			
 		 	
