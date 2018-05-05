@@ -4,7 +4,7 @@ using namespace std;
 //Program 98
 //the sum of the array
 //May 5, 2018
-int A[5] = {5, 6, -9, 8, 14}, sum;
+int A[5] = {5, 6, -9, 8, 14}, sum=0;
 int main()
 {
 	for(int i = 0; i<sizeof(*A)+1; i++)

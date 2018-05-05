@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	int multiDimensionalArray[5][3] = {{5,6,7},{3,9,0},{5,0,1},{7,9,3},{6,2,6}}, sum;
+	int multiDimensionalArray[5][3] = {{5,6,7},{3,9,0},{5,0,1},{7,9,3},{6,2,6}}, sum=0;
 	for(int i=0; i<sizeof(multiDimensionalArray)/sizeof(*multiDimensionalArray); i++)
 	{
 		if(i==3)
